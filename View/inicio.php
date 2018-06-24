@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-    <title>CubiByte</title>
+	<title>Slideshow Parallax with TweenMax</title>
 
 	<link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C700%2C700italic%7COswald%3A400%2C300%7CVollkorn%3A400%2C400italic'>
 	<link rel="stylesheet" href="css/normalize.min.css">
@@ -141,7 +141,7 @@
 
 <script src='js/jQuery_3.1.1.min.js'></script>
 <script src='js/TweenMax.min.js'></script>
-<script  src="js/index.js"></script>
+<script  src="js/slide.js"></script>
 
 </body>
 </html>
