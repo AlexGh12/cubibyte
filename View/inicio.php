@@ -33,7 +33,7 @@
 							</div>
 						</div>
 						<div class="image-container"> 
-							<img src="https://www.alixbdanthenay.fr/wp-content/uploads/2015/07/Indispensable-1.jpg" alt="" class="image" />
+							<img src="IMG/slide/slide1.png" alt="" class="image" />
 						</div>
 					</div>
 
@@ -54,7 +54,7 @@
 							</div>
 						</div>
 						<div class="image-container">
-							<img src="https://www.alixbdanthenay.fr/wp-content/uploads/2015/07/Indispensable-4-1.jpg" alt="" class="image" />
+							<img src="IMG/slide/slide2.png" alt="" class="image" />
 						</div>
 					</div>
 
@@ -75,7 +75,7 @@
 							</div>
 						</div>
 						<div class="image-container">
-							<img src="https://www.alixbdanthenay.fr/wp-content/uploads/2016/11/11.jpg" alt="" class="image" />
+							<img src="IMG/slide/slide3.png" alt="" class="image" />
 						</div>
 					</div>
 
@@ -96,7 +96,7 @@
 							</div>
 						</div>
 						<div class="image-container"> 
-							<img src="https://www.alixbdanthenay.fr/wp-content/uploads/2016/11/20mars17-sans-typo.jpg" alt="" class="image" />
+							<img src="IMG/slide/slide4.png" alt="" class="image" />
 						</div>
 					</div>
 				</div>
